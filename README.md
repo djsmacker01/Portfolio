@@ -1,4 +1,4 @@
-# Portfolio-2021 : <a target="_blank" href="https://www.shawncharles.com">Visit Here</a>
+<!-- # Portfolio-2021 : <a target="_blank" href="https://www.shawncharles.com">Visit Here</a>
 
 <a target="_blank" href="https://www.shawncharles.com">
 <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true" width="100%" alt="Portfolio"/>
@@ -49,4 +49,4 @@ Separation of Concerns. Realized how much easier it is to add css animations tha
         </a>
     </td>
   </tr>
-</table>
+</table> -->
