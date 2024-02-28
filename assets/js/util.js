@@ -26,10 +26,11 @@
 					'<span class="indent-' + indent + '"></span>' +
 					$this.text() +
 				'</a>'
+
 			);
 
 		});
-
+// JOIN
 		return b.join('');
 
 	};
